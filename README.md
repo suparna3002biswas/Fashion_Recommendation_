@@ -6,4 +6,5 @@ We are using 3 CNN models: i) DenseNet201
 
 Then we are doing ensemble with these 3 models using Dempster Shafer theory and it recommends the correct occasion and similar images from uploaded user image.
 
-Here, we have made a dataset with real time images used it in our project.
+Here, we have made a dataset with real time images used it in our project. One can access
+the dataset code from https://www.kaggle.com/datasets/suparnabiswas009/fashion-augmented-dataset
